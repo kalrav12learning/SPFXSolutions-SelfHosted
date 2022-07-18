@@ -10,7 +10,7 @@ export default class Solutiondevopstest extends React.Component<ISolutiondevopst
       <div className={styles.panelStyle} >   
           
        <div className={styles.tableCaptionStyle} >Microsoft Viva is an employee experience platform that brings together communications, knowledge, learning, resources</div>
-          <div className={styles.tableCaptionStyle} >Today's date is 18th May 2022</div> 
+          <div className={styles.tableCaptionStyle} >Today's date is 18th July 2022</div> 
 
           <div className={styles.tableCaptionStyle} >Welcome to Azure DevOps CI/CD for SPFX</div>  
             <div className={styles.tableCaptionStyle} >Customize SharePoint Experiences using WebParts !!!  </div>  
